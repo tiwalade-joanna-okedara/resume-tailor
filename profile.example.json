@@ -1,0 +1,28 @@
+{
+  "name": "Ada Example",
+  "contact": ["ada@example.com", "linkedin.com/in/ada-example", "Lagos, Nigeria · Remote"],
+  "titles": {
+    "default": "Content Marketing Lead",
+    "seo": "SEO and AI Search Lead",
+    "product marketing": "Product Marketing Manager"
+  },
+  "summary": "Marketer who writes clearly about technical products and ties content to sign-ups. Comfortable owning strategy, writing, editing and reporting.",
+  "experience": [
+    {"title": "Content Lead", "org": "Example SaaS", "dates": "2024 – Present", "bullets": [
+      {"text": "Grew organic traffic from 5,000 to 20,000 weekly visits by rebuilding the blog around search intent.", "tags": ["seo", "content", "growth"]},
+      {"text": "Restructured key pages so they are cited in AI answers (ChatGPT, Perplexity, Google AI Overviews).", "tags": ["aeo", "geo", "ai search", "seo"]},
+      {"text": "Managed four freelance writers against briefs and an editorial checklist.", "tags": ["editing", "management", "content"]},
+      {"text": "Wrote launch copy, emails and sales enablement for two product releases.", "tags": ["product marketing", "copywriting", "launch", "email"]}
+    ]},
+    {"title": "Marketing Executive", "org": "Example Agency", "dates": "2021 – 2024", "bullets": [
+      {"text": "Ran LinkedIn for six B2B clients and grew combined followers by 40%.", "tags": ["social", "linkedin", "b2b"]},
+      {"text": "Built reporting dashboards in GA4 and Looker Studio for monthly client reviews.", "tags": ["analytics", "ga4", "reporting"]}
+    ]}
+  ],
+  "skills": {
+    "Content": "Strategy, briefs, editing, copywriting, email",
+    "Search": "SEO, AEO, GEO, schema, GA4, Search Console",
+    "Tools": "WordPress, HubSpot, Notion, Claude, ChatGPT"
+  },
+  "education": "BA, Example University"
+}
